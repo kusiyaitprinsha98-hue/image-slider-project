@@ -1,1 +1,1 @@
-# image-slider-project
+# ImageSliderProject
